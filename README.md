@@ -17,14 +17,14 @@ pip install cryptography
 ```
 1. Clone this repository:
    ```
-   git clone https://github.com/WassimBannout/secure-password-vault.git
+   git clone https://github.com/WassimBannout/Password-Manager.git
    ```
 2. Navigate into the project directory:
    ```
-   cd secure-password-vault
+   cd Password-Manager
    ```
 3. Run the game
    ```
-   python3 secure_password_vault.py
+   python3 main.py
 
    ```
